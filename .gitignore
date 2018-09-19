@@ -1,0 +1,4 @@
+migration/
+.idea/
+*.sqlite
+*.txt
